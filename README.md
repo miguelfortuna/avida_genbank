@@ -50,3 +50,7 @@ bash_script_purifying_selection_process.sh
 ```
 ./bash_script_purifying_selection_process.sh # it performs a double-mutant random walk (i.e., it replaces two instructions at a time) while keeping viability and phenotype, starting from a specific sequence (as an example).
 ```
+
+
+
+[![DOI](https://zenodo.org/badge/89566799.svg)](https://zenodo.org/badge/latestdoi/89566799)
